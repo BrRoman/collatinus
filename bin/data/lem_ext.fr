@@ -41854,7 +41854,7 @@ neruicus:qui souffre de la goutte [aux mains] / musculeux, fort
 neruinus:corde de boyau
 neruositas:force [d'un fil]
 neruulus:petit muscle / pl., nerf, force, vigueur
-nes:one who dances on a thin cord, a, cord-dancer
+!nes:one who dances on a thin cord, a, cord-dancer
 nesciens:qui ne se connaît pas, inconscient
 nescienter:sans le savoir, sans s'en apercevoir
 nescientia:ignorance
